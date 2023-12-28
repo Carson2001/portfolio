@@ -1,4 +1,4 @@
-# Compute Science Student
+# Computer Science Student
 
 ### Education
 Currently enrolled at East Carolina Universoty pursuing a Bachelor of Science in Computer Science.
