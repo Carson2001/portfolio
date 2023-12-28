@@ -1,5 +1,6 @@
 # Compute Science Student
-	
+assets/images
+
 ### Education:
 Currently enrolled at East Carolina Universoty pursuing a Bachelor of Science in Computer Science.
 
