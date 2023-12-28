@@ -1,15 +1,14 @@
 ![profile](https://github.com/Carson2001/portfolio/assets/154708874/14918528-2f60-459d-b983-111794e90e2c)
 
-# Computer Science Student
-========================
+# _Computer Science Student_
 
-#### Objective
+#### _Objective_
 To obtain a computer/tech-related internship to imporve my hands-on skills with copmuter hardware, as well as my knowledge of computer software. 
 
-#### Education
+#### _Education_
 Currently enrolled as a spohmore at Pitt Community College aiming to transfer to East Carolina University by Fall of 2024 to pursue a Bacehlor's of Science in Computer Science.
 
-#### Professional Experience
+#### _Professional Experience_
 Food Lion (03/2020 - 03/2021)
 - Acquired and utlizied customer service and problem solving skills throughout my part-time expericence.
 - Utilization of POS software skills.
@@ -22,7 +21,7 @@ Independent Insurance Adjuster (08/2021 - 12/2023)
 - Worked as a daily and catastrophe field adjuster scoping and estiamting various categories of insuracne losses. 
 - Utilization of 3D modeling/repair estimating sofware (Xactimate).
 
-#### Applicable Skills
+#### _Applicable Skills_
 - Effecient in Microsoft platforms (i.e. Word, Excel, PowerPoint).
 - Customer service.
 - Crrtical thinking and problem solving.
@@ -31,7 +30,7 @@ Independent Insurance Adjuster (08/2021 - 12/2023)
 - Entry level experience in website generators such as GitHub Pages (utilizing Jekyll).
     
   
-#### Personal Projects
+#### _Personal Projects_
 Custom Furniture Website
-- Learned and applied various beginner level technical skills in website design.
+- Learned and applied various beginner level technical skills in website design [LINK].
 
