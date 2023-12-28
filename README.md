@@ -1,3 +1,4 @@
+![profile](https://github.com/Carson2001/portfolio/assets/154708874/14918528-2f60-459d-b983-111794e90e2c)
 
 # Computer Science Student
 
