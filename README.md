@@ -1,4 +1,4 @@
-![57o0ngfj](https://github.com/Carson2001/portfolio/assets/154708874/a428ec28-e62a-4ef5-bb6a-0098f34f4dd7)
+
 # Computer Science Student
 
 ### Education
