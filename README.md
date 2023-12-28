@@ -9,7 +9,7 @@ To obtain a computer/tech-related internship to imporve my hands-on skills with 
 #### Education
 Currently enrolled as a spohmore at Pitt Community College aiming to transfer to East Carolina University by Fall of 2024 to pursue a Bacehlor's of Science in Computer Science.
 
-#### Work Experience
+#### Professional Experience
 Food Lion (03/2020 - 03/2021)
 - Acquired and utlizied customer service and problem solving skills throughout my part-time expericence.
 - Utilization of POS software skills.
@@ -18,15 +18,20 @@ Fastenal (03/2021 - 08/2021)
 - Worked as a field operations speacialist vending various clientele in the manufacturing industry of Eastern NC.
 - Utilization of inventory allocation sotware.
   
-Independant Insurance Adjuster (08/2021 - 12/2023)
+Independent Insurance Adjuster (08/2021 - 12/2023)
 - Worked as a daily and catastrophe field adjuster scoping and estiamting various categories of insuracne losses. 
 - Utilization of 3D modeling/repair estimating sofware (Xactimate).
-  
+
+#### Applicable Skills
+- Effecient in Microsoft platforms (i.e. Word, Excel, PowerPoint).
+- Customer service.
+- Crrtical thinking and problem solving.
+- Entry level computer trouble-shooting skilles. 
+- Entry level experience in interpreted programing languages such as Python.
+- Entry level experience in website generators such as GitHub Pages (utilizing Jekyll).
+    
   
 #### Personal Projects
-Mini-Games
-- Learned and applied technical skills in game programing.
-  
 Custom Furniture Website
-- Learned and applied technical skills in website design.
+- Learned and applied various beginner level technical skills in website design.
 
