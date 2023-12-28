@@ -3,7 +3,7 @@
 # _Computer Science Student_
 
 #### _Objective_
-To obtain a computer/tech-related internship to imporve my hands-on skills with copmuter hardware, as well as my knowledge of computer software. 
+To obtain a computer/tech-related internship to imporve my hands-on skills with copmputer hardware, as well as my knowledge of computer software. 
 
 #### _Education_
 Currently enrolled as a spohmore at Pitt Community College aiming to transfer to East Carolina University by Fall of 2024 to pursue a Bacehlor's of Science in Computer Science.
@@ -18,13 +18,13 @@ Fastenal (03/2021 - 08/2021)
 - Utilization of inventory allocation sotware.
   
 Independent Insurance Adjuster (08/2021 - 12/2023)
-- Worked as a daily and catastrophe field adjuster scoping and estiamting various categories of insuracne losses. 
+- Worked as a daily and catastrophe field adjuster scoping and estiamting various categories of insurance losses. 
 - Utilization of 3D modeling/repair estimating sofware (Xactimate).
 
 #### _Applicable Skills_
 - Effecient in Microsoft platforms (i.e. Word, Excel, PowerPoint).
 - Customer service.
-- Crrtical thinking and problem solving.
+- Critical thinking and problem solving.
 - Entry level computer trouble-shooting skilles. 
 - Entry level experience in interpreted programing languages such as Python.
 - Entry level experience in website generators such as GitHub Pages (utilizing Jekyll).
