@@ -11,7 +11,7 @@ Part-time Employee at (IT/tech company)
 - Hands-on experience with implementing hardware applications. 
   
 ### Personal Projects
-Mini-Game
+Mini-Games
 - Learned and applied technical skills in game programing.
   
 Custom Furniture Website
