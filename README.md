@@ -1,7 +1,7 @@
 # _Computer Science Student_
 
 #### _Objective_
-To obtain a computer/tech-related internship to imporve my hands-on skills with copmputer hardware, as well as my knowledge of computer software. 
+To obtain a computer/tech-related internship to improve my hands-on skills with copmputer hardware, as well as my knowledge of computer software. 
 
 #### _Education_
 Currently enrolled as a spohmore at Pitt Community College aiming to transfer to East Carolina University by Fall of 2024 to pursue a Bacehlor's of Science in Computer Science.
@@ -30,5 +30,5 @@ Independent Insurance Adjuster (08/2021 - 12/2023)
   
 #### _Personal Projects_
 Custom Furniture Website
-- Learned and applied various beginner level technical skills in website design https://carson2001.github.io/Custom-Furniture/.
+- Learned and applied various beginner level technical skills in website design (https://carson2001.github.io/Custom-Furniture/).
 
