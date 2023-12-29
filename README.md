@@ -30,5 +30,5 @@ Independent Insurance Adjuster (08/2021 - 12/2023)
   
 #### _Personal Projects_
 Custom Furniture Website
-- Learned and applied various beginner level technical skills in website design: <a href="https://carson2001.github.io/Custom-Furniture/"> Custom </a>.
+- Learned and applied various beginner level technical skills in website design: <a href="https://carson2001.github.io/Custom-Furniture/"> Custom Furniture by Carson Bland </a>.
 
