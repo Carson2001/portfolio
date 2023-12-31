@@ -4,7 +4,7 @@
 To obtain a computer/tech-related internship to improve my hands-on skills with copmputer hardware, as well as my knowledge of computer software. 
 
 #### _Education_
-Currently enrolled as a spohmore at Pitt Community College aiming to transfer to East Carolina University by Fall of 2024 to pursue a Bacehlor's of Science in Computer Science.
+Currently enrolled as a spohmore at Pitt Community College planning to transfer to East Carolina University by Fall of 2024 to pursue a Bacehlor of Science in Computer Science.
 
 #### _Professional Experience_
 Food Lion (03/2020 - 03/2021)
