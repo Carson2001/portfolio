@@ -23,7 +23,7 @@ Independent Insurance Adjuster (08/2021 - 12/2023)
 - Effecient in Microsoft platforms (i.e. Word, Excel, PowerPoint).
 - Customer service.
 - Critical thinking and problem solving.
-- Entry level computer trouble-shooting skilles. 
+- Entry level computer trouble-shooting skills. 
 - Entry level experience in interpreted programing languages such as Python.
 - Entry level experience in website generators such as GitHub Pages (utilizing Jekyll).
     
